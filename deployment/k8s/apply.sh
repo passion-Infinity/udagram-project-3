@@ -9,5 +9,4 @@ env-secret.yml,\
 frontend-deployment.yml,\
 frontend-service.yml,\
 reverseproxy-deployment.yml,\
-reverseproxy-service.yml,\
-autoscales.yml
+reverseproxy-service.yml
